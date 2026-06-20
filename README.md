@@ -14,10 +14,8 @@ This repository contains weekly assignments and projects completed during the in
 - Week 1: Linear Algebra, Statistics & Probability
 - Week 2: Machine Learning Fundamentals
 - Week 3: Data Preprocessing & EDA
-### Week 4: Artificial Neural Networks (ANN) & Convolutional Neural Networks (CNN)
-### Week 5: Text Generation using RNN, LSTM & GRU
-## Author
-**Akshita Jain**
+- Week 4: Artificial Neural Networks (ANN) & Convolutional Neural Networks (CNN)
+- Week 5: Text Generation using RNN, LSTM & GRU
 
 ## Objective:
 To develop practical skills in Data Science, Machine Learning, Statistical Analysis, and Model Development through hands-on assignments and projects.
